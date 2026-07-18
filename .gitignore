@@ -1,0 +1,6 @@
+*.pcap
+*.pcapng
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
